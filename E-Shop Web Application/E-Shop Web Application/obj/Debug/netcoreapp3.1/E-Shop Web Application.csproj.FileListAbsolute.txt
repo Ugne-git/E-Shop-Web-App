@@ -1,0 +1,20 @@
+C:\Users\Ugnė\Documents\GitHub\E-Shop-Web-App\E-Shop Web Application\E-Shop Web Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ugnė\Documents\GitHub\E-Shop-Web-App\E-Shop Web Application\E-Shop Web Application\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ugnė\Documents\GitHub\E-Shop-Web-App\E-Shop Web Application\E-Shop Web Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ugnė\Documents\GitHub\E-Shop-Web-App\E-Shop Web Application\E-Shop Web Application\bin\Debug\netcoreapp3.1\E-Shop Web Application.exe
+C:\Users\Ugnė\Documents\GitHub\E-Shop-Web-App\E-Shop Web Application\E-Shop Web Application\bin\Debug\netcoreapp3.1\E-Shop Web Application.deps.json
+C:\Users\Ugnė\Documents\GitHub\E-Shop-Web-App\E-Shop Web Application\E-Shop Web Application\bin\Debug\netcoreapp3.1\E-Shop Web Application.runtimeconfig.json
+C:\Users\Ugnė\Documents\GitHub\E-Shop-Web-App\E-Shop Web Application\E-Shop Web Application\bin\Debug\netcoreapp3.1\E-Shop Web Application.runtimeconfig.dev.json
+C:\Users\Ugnė\Documents\GitHub\E-Shop-Web-App\E-Shop Web Application\E-Shop Web Application\bin\Debug\netcoreapp3.1\E-Shop Web Application.dll
+C:\Users\Ugnė\Documents\GitHub\E-Shop-Web-App\E-Shop Web Application\E-Shop Web Application\bin\Debug\netcoreapp3.1\E-Shop Web Application.pdb
+C:\Users\Ugnė\Documents\GitHub\E-Shop-Web-App\E-Shop Web Application\E-Shop Web Application\obj\Debug\netcoreapp3.1\E-Shop Web Application.csprojAssemblyReference.cache
+C:\Users\Ugnė\Documents\GitHub\E-Shop-Web-App\E-Shop Web Application\E-Shop Web Application\obj\Debug\netcoreapp3.1\E-Shop Web Application.AssemblyInfoInputs.cache
+C:\Users\Ugnė\Documents\GitHub\E-Shop-Web-App\E-Shop Web Application\E-Shop Web Application\obj\Debug\netcoreapp3.1\E-Shop Web Application.AssemblyInfo.cs
+C:\Users\Ugnė\Documents\GitHub\E-Shop-Web-App\E-Shop Web Application\E-Shop Web Application\obj\Debug\netcoreapp3.1\E-Shop Web Application.csproj.CoreCompileInputs.cache
+C:\Users\Ugnė\Documents\GitHub\E-Shop-Web-App\E-Shop Web Application\E-Shop Web Application\obj\Debug\netcoreapp3.1\E-Shop Web Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ugnė\Documents\GitHub\E-Shop-Web-App\E-Shop Web Application\E-Shop Web Application\obj\Debug\netcoreapp3.1\E-Shop Web Application.RazorTargetAssemblyInfo.cache
+C:\Users\Ugnė\Documents\GitHub\E-Shop-Web-App\E-Shop Web Application\E-Shop Web Application\obj\Debug\netcoreapp3.1\staticwebassets\E-Shop Web Application.StaticWebAssets.Manifest.cache
+C:\Users\Ugnė\Documents\GitHub\E-Shop-Web-App\E-Shop Web Application\E-Shop Web Application\obj\Debug\netcoreapp3.1\staticwebassets\E-Shop Web Application.StaticWebAssets.xml
+C:\Users\Ugnė\Documents\GitHub\E-Shop-Web-App\E-Shop Web Application\E-Shop Web Application\obj\Debug\netcoreapp3.1\E-Shop Web Application.dll
+C:\Users\Ugnė\Documents\GitHub\E-Shop-Web-App\E-Shop Web Application\E-Shop Web Application\obj\Debug\netcoreapp3.1\E-Shop Web Application.pdb
+C:\Users\Ugnė\Documents\GitHub\E-Shop-Web-App\E-Shop Web Application\E-Shop Web Application\obj\Debug\netcoreapp3.1\E-Shop Web Application.genruntimeconfig.cache
